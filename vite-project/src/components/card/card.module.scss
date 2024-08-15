@@ -1,0 +1,12 @@
+@import '../../components/card/cardBody.module.scss';
+@import '../../components/card/cardHeader.module.scss';
+@import '../../components/card/cardFooter.module.scss';
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
